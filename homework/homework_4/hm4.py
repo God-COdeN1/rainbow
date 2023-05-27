@@ -1,5 +1,5 @@
 x = int(input("Введіть число x: "))
-squares = []  # Список для збереження квадратів
+squares = []  
 for i in range(1, x):
     square = i ** 2
     if square < x:
