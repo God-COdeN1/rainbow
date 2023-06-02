@@ -1,6 +1,4 @@
-base = {
-
-}
+base = {}
 while True:
     i = input("1 для регістрації, 2 для входу ")
     if i == "1":
