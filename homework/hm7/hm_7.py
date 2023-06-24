@@ -47,6 +47,6 @@ def count_elements(*args):
 
 
 # 8
-def vaules_to_list(*kwargs):
+def vaules_to_list(**kwargs):
     values = list(kwargs.vaules())
     return values
